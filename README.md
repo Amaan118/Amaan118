@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amaan118
-- 👀 I’m interested in Programming and Website Developing
-- 🌱 I’m currently learning Web Developing
+- 👀 I’m interested in Programming and Web Development
+- 🌱 I’m currently learning Web Development
 
 <!---
 Amaan118/Amaan118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
