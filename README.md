@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amaan118
-- 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 A Full Stack | DevOps developer at Hj Infotech.
+- 🌱 Wanna be a Software Developer.
 
 <!---
 Amaan118/Amaan118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
