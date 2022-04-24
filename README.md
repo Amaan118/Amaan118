@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amaan118
+- 👋 Hi, I’m Mohammad Amaan Khan
 - 👀 A Full Stack | DevOps developer at Hj Infotech.
 - 🌱 Wanna be a Software Developer.
 
