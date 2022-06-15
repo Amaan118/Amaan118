@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mohammad Amaan Khan
-- 👀 A Full Stack | DevOps developer at Hj Infotech.
+- 👀 A Ex Full Stack | DevOps developer at Hj Infotech.
+- 👀 Currently working as Backend Developer for JobsTerritory.
 - 🌱 Wanna be a Software Developer.
 
 <!---
